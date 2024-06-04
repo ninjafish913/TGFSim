@@ -1,0 +1,6 @@
+/vis/open
+/vis/viewer/set/viewpointVector 1 1 1
+/vis/drawVolume
+/vis/viewer/autoRefresh true
+/vis/scene/add/trajectories smooth
+/vis/scene/endOfEventAction accumulate
