@@ -9,8 +9,8 @@ namespace TGF
 {
     TGFConstruction::TGFConstruction()
     {
-        detail = 10;
-        width = 100.;
+        detail = 1;
+        width = 200.;
     }
 
     TGFConstruction::~TGFConstruction()
