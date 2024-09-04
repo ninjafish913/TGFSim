@@ -23,6 +23,8 @@ namespace TGF
 		analysisManager->CreateNtupleDColumn("fDirZ");
 		analysisManager->CreateNtupleDColumn("fTime");
 		analysisManager->CreateNtupleDColumn("fEnergy");
+		analysisManager->CreateNtupleDColumn("fMass");
+		analysisManager->CreateNtupleDColumn("fCharge");
 		analysisManager->CreateNtupleDColumn("fInitAltitude");
 		analysisManager->CreateNtupleDColumn("fInitEnergy");
 		analysisManager->CreateNtupleDColumn("fInitPhi");
